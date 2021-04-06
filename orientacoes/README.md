@@ -3,7 +3,7 @@ Repositório de trabalhos de final de curso, dissertações e teses
 
 ## Dissertações
 
-- **Yuri Bastos Gabrich** - *A blockchain application to pave the way for transactive energy on the Brazilian micro-mini grid context* (2019) - [PPG-CComp/UERJ](https://ccomp.ime.uerj.br) - [PDF](./Dissertacao/2019_Yuri_Blockchain_Micro-Mini_Grids.pdf) (versão final)
+- [**Yuri Bastos Gabrich**](https://www.linkedin.com/in/yurigabrich) - *A blockchain application to pave the way for transactive energy on the Brazilian micro-mini grid context* (2019) - [PPG-CComp/UERJ](https://ccomp.ime.uerj.br) - [PDF](./Dissertacao/2019_Yuri_Blockchain_Micro-Mini_Grids.pdf) (versão final)
   * Orientadores: Igor Machado Coelho / Vitor Nazário Coelho
 
 ## Trabalhos de Conclusão de Curso (TCC)
